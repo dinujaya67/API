@@ -1,13 +1,49 @@
 {
-  "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "grade10": [
+    {
+      "id": "1",
+      "title": "Buddhism", 
+      "content": "1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "2", 
+      "title": "Sinhala", 
+      "content": "2 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "3", 
+      "title": "English", 
+      "content": "3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "4", 
+      "title": "Science", 
+      "content": "4 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "5", 
+      "title": "Mathematics", 
+      "content": "5 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "6", 
+      "title": "History", 
+      "content": "6 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "7", 
+      "title": "Commerce", 
+      "content": "7 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "8", 
+      "title": "Sinhala Lit", 
+      "content": "8 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    },
+    { 
+      "id": "9", 
+      "title": "ICT", 
+      "content": "9 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maxime laboriosam eaque, eius possimus corrupti impedit sint quae laudantium numquam illum vitae labore ducimus quasi. Fugit, repudiandae! Quis necessitatibus aspernatur est neque. Fuga asperiores facere tenetur, assumenda dolorem illum esse. Accusamus dolorem omnis animi eum magni, necessitatibus culpa recusandae, officiis, quae qui tempore praesentium provident labore laborum fugit delectus. Provident omnis ad modi hic commodi, quasi vitae dignissimos laborum animi quisquam, adipisci quia eos impedit tenetur asperiores! Possimus at quibusdam reprehenderit a! Expedita eum, blanditiis unde repellat tenetur molestiae exercitationem amet similique aperiam nihil aspernatur voluptatem quo itaque mollitia veniam!" 
+    }
+  ]
 }
